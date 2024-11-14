@@ -25,3 +25,6 @@ limpieza manual de cache.
 *-No hay soporte para dispositivos que tengan android 7 base.
 *-Para (fire tv stick basic) de amazon de primera generacion, no se garantiza el soporte
   por tener FireOS6 el cual trabaja con android 7 base.
+
+-kraken tv v3.0.3-------update 14 de noviembre 2024
+*-
