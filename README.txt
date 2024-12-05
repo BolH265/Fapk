@@ -28,3 +28,14 @@ limpieza manual de cache.
 
 -kraken tv v3.0.3-------update 14 de noviembre 2024
 *-
+
+-kraken tv v3.0.4-------update 29 de noviembre 2024
+*-Se corriguio el error de acceso directo en dispositivos de amazon de fire tv stick, firetv cube
+donde ahora si agrega acceso directo.
+*-Se optimizo la aplicacion y reproductor nativo para que reprodusca en alta definicio HD,
+para aprobechar su conexion de internet.
+*-Se recupero compatibilidad para la mayoria de tablets que tengan hasta maximo android 13.
+ya que para versiones con android mas actuales desde el 13 para adelante no se garantiza
+su instalacion.
+*-Se pudo recuperar el soporte para la mayoria de tv box chinas genericas, pero que se recomienda
+adquirir tv box certificados con android tv o google tv, para que mantengan soporte a largo plazo.
