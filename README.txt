@@ -45,3 +45,8 @@ adquirir tv box certificados con android tv o google tv, para que mantengan sopo
 -kraken tv v3.1.0-------update 31 de enero 2025
 *-Se corriguio errores minimos y actualizacion de enlaces.
 *-Agregado opcion de usuarios premium de suscripcion mensual.
+
+--kraken tv v3.1.1-------update 09 de febrero 2024
+*-Actualizacion de enlaces y correccion de canales offline
+*-optimizacion del reproductor y compatibilidad.
+*-optimizacion de servidores de streaming.
