@@ -1,6 +1,6 @@
 ---ACTUALIZACION DE APLICACIONES GENERALES:----
 -----------------------------------------------
------------fecha 11 febrero 2025 -------------4k HDR
+-----------fecha 11 febrero 2025 -------------4k HDR SDR
 
 KRAKEN TV & ZONA TV BOX
 SMART YOUTUBE S
@@ -9,6 +9,7 @@ SMARTERS PLAYER
 LAUNCHER SMART TV
 VLC
 CONTROL REMOTO UNIVERSAL
+REVANCED MANAGER
 ----------------Lista de cambios update--------------
 
 -kraken tv v3.0.1-------update 30 de octubre 2024
