@@ -53,3 +53,6 @@ adquirir tv box certificados con android tv o google tv, para que mantengan sopo
 *-Actualizacion de enlaces y correccion de canales offline
 *-optimizacion del reproductor y compatibilidad.
 *-optimizacion de servidores de streaming.
+
+-ACTUALIZACION MAGIS TV 4.31.0 -- 02 MARZO 2025
+*actualizacion de version.
