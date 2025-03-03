@@ -1,6 +1,6 @@
 ---ACTUALIZACION DE APLICACIONES GENERALES:----
 -----------------------------------------------
------------fecha 02 marzo 2025 -------------15k HDR SDR
+-----------fecha 03 marzo 2025 -------------20k HDR SDR
 
 KRAKEN TV & ZONA TV BOX
 SMART YOUTUBE S
@@ -11,6 +11,7 @@ VLC
 CONTROL REMOTO UNIVERSAL
 REVANCED MANAGER
 PLAYER LATINO PRO 2025
+TELELATINO PRO 2025
 ----------------Lista de cambios update--------------
 
 -kraken tv v3.0.1-------update 30 de octubre 2024
