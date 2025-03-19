@@ -1,6 +1,6 @@
 ---ACTUALIZACION DE APLICACIONES GENERALES:----
 -----------------------------------------------
------------fecha 06 marzo 2025 -------------35k HDR SDR
+-----------fecha 18 marzo 2025 -------------35k HDR SDR
 
 KRAKEN TV & ZONA TV BOX
 SMART YOUTUBE S
@@ -59,3 +59,5 @@ adquirir tv box certificados con android tv o google tv, para que mantengan sopo
 
 -ACTUALIZACION MAGIS TV 4.31.0 -- 02 MARZO 2025
 *actualizacion de version.
+
+-kraken tv v3.1.2-------update 18 de marzo 2025
