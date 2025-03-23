@@ -14,6 +14,7 @@ PLAYER LATINO PRO 2025
 TELELATINO PRO 2025
 gnula box 2025
 MAGIS TV 2025
+ZONA TV BOX 2025
 ----------------Lista de cambios update--------------
 
 -kraken tv v3.0.1-------update 30 de octubre 2024
@@ -64,3 +65,6 @@ adquirir tv box certificados con android tv o google tv, para que mantengan sopo
 
 -kraken tv v3.1.3-------update 18 de marzo 2025
 correccion de problemas de arterior actualizacion
+
+-Zona tv box v2.3-------update 23 de marzo 2025
+correccion optimizacion para registro y dispositivos.
