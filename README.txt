@@ -1,6 +1,6 @@
 ---ACTUALIZACION DE APLICACIONES GENERALES:----
 -----------------------------------------------
------------fecha 25 marzo 2025 -------------35k HDR SDR
+-----------fecha 14 abril 2025 -------------45k HDR SDR
 
 KRAKEN TV & ZONA TV BOX
 SMART YOUTUBE S
