@@ -1,6 +1,6 @@
 ---ACTUALIZACION DE APLICACIONES GENERALES:----
 -----------------------------------------------
------------fecha 14 abril 2025 -------------45k HDR SDR
+-----------fecha 08 mayp 2025 -------------45k HDR SDR
 
 KRAKEN TV & ZONA TV BOX
 SMART YOUTUBE S
@@ -12,7 +12,7 @@ CONTROL REMOTO UNIVERSAL
 REVANCED MANAGER
 PLAYER LATINO PRO 2025
 TELELATINO PRO 2025
-gnula box 2025
+gnula box 2025 actualizar
 MAGIS TV 2025
 ZONA TV BOX 2025
 ----------------Lista de cambios update--------------
