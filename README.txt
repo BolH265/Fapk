@@ -1,6 +1,6 @@
 ---ACTUALIZACION DE APLICACIONES GENERALES:----
 -----------------------------------------------
------------fecha 03 junio 2025 -------------8k HDR SDR
+-----------fecha 02 agosto 2025 -------------10k HDR SDR
 
 KRAKEN TV & ZONA TV BOX
 SMART YOUTUBE S
@@ -68,3 +68,12 @@ correccion de problemas de arterior actualizacion
 
 -Zona tv box v2.3-------update 23 de marzo 2025
 correccion optimizacion para registro y dispositivos.
+
+-kraken tv v3.2.0-------update 02 de agosto 2025
+-actualizacion global
+-soporte mejorado para usuarios premium, mas estabilidad y mejor calidad de imagen.
+-gestionar dispositivos, ahora todos podran gestiornar eliminar agregar dispositivos desde la version para celular.
+-registro disponible- ya podras registrarte desde la aplicacion movil.
+-ya no es necesario app zona tv box, por que ahora esta todo integrado en la app kraken tv 2025
+
+
